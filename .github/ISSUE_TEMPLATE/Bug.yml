@@ -1,7 +1,16 @@
----
-name: Bug Issue
-about: An Issue about a bug in the repo
-title: ''
-labels: bug
-assignees: ''
----
+name: Bug
+description: report a bug
+title: "Bug report"
+body:
+- type: checkboxes
+  attributes:
+    label: by requesting a bug you must check these boxes
+    options:
+    - label: I have explained how the bug(s) work
+      required: true
+    - label: I have left attachments or code lines on why it happens
+      required: true
+    - label: I know that I wont waste your time
+      required: true
+    - label: I just checked all of these boxes without reading the labels
+      required: false
