@@ -18,3 +18,11 @@ body:
   attributes:
     label: about the bug
     description: write about the bug, how it works/happens, and where
+- type: textarea
+  attributes:
+    label: Screenshots
+    description: at least 2 or 3 screenshots of the bug (not required)
+    placeholder: |
+      screenshots of the bug
+  validations:
+    required: false
