@@ -14,3 +14,7 @@ body:
       required: true
     - label: I just checked all of these boxes without reading the labels
       required: false
+- type: textarea
+  attributes:
+    label: about the bug
+    description: write about the bug, how it works/happens, and where
