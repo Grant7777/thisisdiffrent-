@@ -1,5 +1,5 @@
 name: Other
-description: questions,bug reports,etc
+description: Misc stuff like questions
 body:
 - type: textarea
   attributes:

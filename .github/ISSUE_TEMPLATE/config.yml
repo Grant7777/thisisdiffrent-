@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Onlinemc Discord server
+    url: https://discord.gg/QM48TjWPUf
+    about: Please ask and answer questions here.
+  - name: Have a security bug?
+    url: https://github.com/online-mc/online-mc.github.io/security/
+    about: Please see the security policy.
