@@ -6,11 +6,11 @@ body:
   attributes:
     label: by requesting a bug you must check these boxes
     options:
-    - label: I have explained how the bug(s) work
+    - label: I have explained about the bug(s)
       required: true
-    - label: I have left attachments or code lines on why it happens
+    - label: I have left attachments or code lines
       required: true
-    - label: I know that I wont waste your time
+    - label: I know that I won't waste your time
       required: true
     - label: I just checked all of these boxes without reading the labels
       required: false
@@ -21,7 +21,7 @@ body:
 - type: textarea
   attributes:
     label: Screenshots
-    description: at least 2 or 3 screenshots of the bug (not required)
+    description: at least 1 screenshot of the bug (not required)
     placeholder: |
       screenshots of the bug
   validations:
