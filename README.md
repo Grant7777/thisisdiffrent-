@@ -1,4 +1,4 @@
-# PLEASE MAKE A FORK/[DOWNLOAD THIS REPO RN](https://codeload.github.com/online-mc/online-mc.github.io/zip/refs/heads/main), THIS REPO WILL BE DMCA'D
+# NEW REPO/[GO TO THE NEW REPO](https://github.com/the-organization-selection/mc-online), THIS REPO WILL BE DMCA'D
 ## Host the website
  
 You can host this website on a cloud hosting solution like Replit or Render here.
